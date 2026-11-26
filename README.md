@@ -1,6 +1,6 @@
 # matura-tracker
 
-Mały serwer pokazujący postęp przygotowań do matury (matematyka + fizyka) jako JSON, do podpięcia pod widżet na telefonie.
+Mała aplikacja pokazująca postęp przygotowań do matury (matematyka + fizyka) jako JSON, do podpięcia pod widżet na telefonie.
 
 ## Uruchomienie
 

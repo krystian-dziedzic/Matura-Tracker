@@ -24,3 +24,4 @@ def status():
         "next_checkpoint": next_checkpoint,
         "progress_pct": round(100 * done_count / len(DATA["checkpoints"])),
     }
+
