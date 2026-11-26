@@ -1,0 +1,20 @@
+{
+  "matura_date": "2028-05-01",
+  "phases": [
+    {"id": 0, "start": "2026-11-01", "end": "2026-12-31", "label": "Diagnoza + start", "math": "Test diagnostyczny; luki z klas 1-3; ciągi (olimpiada)", "physics": "Test zerowy; kinematyka od podstaw"},
+    {"id": 1, "start": "2027-01-01", "end": "2027-01-31", "label": "Praktyki zawodowe", "math": "Ciągi cd.; powtórka funkcji", "physics": "Kinematyka: ruch przyspieszony, rzuty"},
+    {"id": 2, "start": "2027-02-01", "end": "2027-06-30", "label": "II semestr kl. 4", "math": "Funkcje, trygonometria, geometria analityczna", "physics": "Dynamika, praca-energia-moc, pęd, grawitacja"},
+    {"id": 3, "start": "2027-07-01", "end": "2027-08-31", "label": "Wakacje — blok intensywny", "math": "Planimetria, stereometria", "physics": "Termodynamika, start elektrostatyki"},
+    {"id": 4, "start": "2027-09-01", "end": "2027-12-31", "label": "I semestr kl. 5", "math": "Prawdopodobieństwo, statystyka; start arkuszy", "physics": "Elektryczność i magnetyzm; start fal"},
+    {"id": 5, "start": "2028-01-01", "end": "2028-02-29", "label": "II semestr kl. 5", "math": "Powtórka całości; cotyg. arkusz", "physics": "Optyka, fizyka atomowa; start arkuszy"},
+    {"id": 6, "start": "2028-03-01", "end": "2028-04-30", "label": "Finisz", "math": "Arkusz CKE co 3-4 dni", "physics": "Arkusz CKE co 3-4 dni"},
+    {"id": 7, "start": "2028-05-01", "end": "2028-05-31", "label": "Matura", "math": "Lekkie powtórki", "physics": "Lekkie powtórki"}
+  ],
+  "checkpoints": [
+    {"date": "2026-12-31", "label": "Arkusz diagnostyczny (matematyka + fizyka)", "done": false},
+    {"date": "2027-06-30", "label": "Arkusz połówkowy: mechanika + funkcje/trygonometria", "done": false},
+    {"date": "2027-08-31", "label": "Arkusz: planimetria/stereometria + termodynamika/elektrostatyka", "done": false},
+    {"date": "2027-12-31", "label": "Pierwszy pełny arkusz maturalny z matematyki, na czas", "done": false},
+    {"date": "2028-02-29", "label": "Pierwszy pełny arkusz maturalny z fizyki, na czas", "done": false}
+  ]
+}
